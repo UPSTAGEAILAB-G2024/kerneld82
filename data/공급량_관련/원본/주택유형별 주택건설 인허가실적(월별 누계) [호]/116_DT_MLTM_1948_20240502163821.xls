@@ -1,0 +1,961 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882"
+ xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Regional production structure by SIC'93</Title>
+  <Author>CBS</Author>
+  <LastAuthor>Registered User</LastAuthor>
+  <LastSaved>2013-08-09T06:29:16Z</LastSaved>
+  <Company>CBS</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11910</WindowHeight>
+  <WindowWidth>10110</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>600</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Header">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="데이터">
+  <Table ss:ExpandedColumnCount="81" ss:ExpandedRowCount="11" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="90" ss:DefaultRowHeight="11.25">
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">○ 주택유형별 주택건설 인허가실적(월별 누계) [호]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">시도명</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">대분류</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">중분류</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">소분류</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">항목</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">단위</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.01 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.02 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.03 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.04 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.05 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.06 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.07 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.08 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.09 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.10 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.11 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2018.12 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.01 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.02 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.03 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.04 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.05 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.06 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.07 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.08 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.09 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.10 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.11 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2019.12 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.01 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.02 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.03 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.04 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.05 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.06 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.07 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.08 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.09 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.10 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.11 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2020.12 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.01 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.02 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.03 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.04 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.05 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.06 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.07 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.08 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.09 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.10 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.11 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2021.12 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.01 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.02 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.03 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.04 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.05 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.06 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.07 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.08 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.09 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.10 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.11 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2022.12 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.01 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.02 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.03 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.04 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.05 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.06 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.07 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.08 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.09 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.10 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.11 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2023.12 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2024.01 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2024.02 월</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2024.03 월</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">합계(동수기준)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">합계(동수기준)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">합계(동수기준)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5694</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9198</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13559</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18850</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24340</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27965</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34270</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38566</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42210</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48066</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56575</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65751</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8065</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13372</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28257</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31700</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35077</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37643</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">41407</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45738</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48399</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">51386</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55661</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62272</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3417</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9068</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13685</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18025</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22149</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25808</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30233</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33319</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38551</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45625</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50457</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58181</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2695</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9599</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16290</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26397</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30915</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37194</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46041</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50638</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62516</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">70578</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">77999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">83260</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3790</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9797</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12828</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16578</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19172</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25057</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28200</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31055</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32053</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36469</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38745</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42724</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1904</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8523</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12749</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15356</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16357</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17674</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20283</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23778</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24139</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27800</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34693</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38633</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2501</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4952</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6493</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">합계(가구수기준)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">합계(가구수기준)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">합계(가구수기준)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6123</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9941</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14691</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20433</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26432</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30616</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37356</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">41899</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45744</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">51731</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">60412</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">69958</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8376</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13975</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29307</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32931</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36410</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42979</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47469</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50234</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">53364</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57807</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64584</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3596</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9459</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14260</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18743</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22979</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26805</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31395</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34633</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40135</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47323</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52274</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">60197</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2912</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9966</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16837</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27168</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31835</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38280</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47379</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52096</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64122</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">72279</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">79830</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">85277</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3863</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9991</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13118</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16993</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19733</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25786</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29030</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31915</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32913</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37475</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39771</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43764</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1923</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8553</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12811</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15413</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16424</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17746</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20371</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23861</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24237</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27921</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34824</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38777</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2525</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5028</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6601</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">단독</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">단독</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">단독</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">186</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">356</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">553</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">786</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1056</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1420</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1810</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1931</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2033</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2274</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2399</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">160</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">325</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">557</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">684</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">805</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">915</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1018</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1161</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1230</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1302</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1371</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1510</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">69</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">140</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">270</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">392</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">497</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">635</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">812</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">881</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1058</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1106</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1164</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">133</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">231</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">361</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">510</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">583</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">699</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">825</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">913</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">988</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1059</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1167</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">124</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">245</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">314</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">386</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">483</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">525</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">553</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">554</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">820</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">897</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">930</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">121</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">145</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">172</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">192</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">209</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">296</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">333</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">350</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">363</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">379</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">53</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">단독</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">다가구</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">동수</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">176</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">282</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">373</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">485</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">621</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">731</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">783</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">836</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">869</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">912</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">983</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">81</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">151</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">259</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">315</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">341</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">374</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">399</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">432</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">453</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">484</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">524</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">556</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">39</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">137</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">170</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">202</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">248</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">294</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">329</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">392</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">423</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">452</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">499</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">85</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">135</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">201</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">245</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">287</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">357</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">394</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">434</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">460</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">497</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">545</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">79</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">159</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">201</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">227</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">238</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">238</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">284</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">294</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">72</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">164</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">201</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">254</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">275</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">297</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">333</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">349</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">381</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">422</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">439</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">단독</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">다가구</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">세대수</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">524</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">919</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1414</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1956</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2577</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3272</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3817</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4116</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4370</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4534</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4749</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5190</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">392</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">754</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1309</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1546</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1674</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1835</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1971</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2163</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2288</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2462</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2670</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2868</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">218</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">482</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">712</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">888</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1032</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1245</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1456</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1643</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1976</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2121</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2269</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2515</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">265</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">452</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">682</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">972</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1165</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1373</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1695</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1852</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">단독</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">다가구</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">가구수</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2040</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2161</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2328</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2562</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">94</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">244</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">369</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">535</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">720</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">930</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1057</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1098</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1098</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1290</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1320</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1340</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">134</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">226</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">258</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">321</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">347</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">385</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">416</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">447</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">502</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">553</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">583</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">51</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">93</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">134</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">다세대</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">다세대</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">다세대</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3254</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5537</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7492</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9790</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12469</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14747</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17596</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19851</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21854</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24076</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26260</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28676</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2407</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4470</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7892</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10052</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11903</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13461</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14958</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16327</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17711</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19375</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21559</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23218</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1668</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3903</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5876</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7845</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10006</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12624</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14742</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16757</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19630</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21434</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23145</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25047</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1501</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3300</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5306</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7759</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9642</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12438</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15129</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17267</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19193</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20544</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22369</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24366</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1301</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2861</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4443</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5963</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7079</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9187</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10168</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10771</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10757</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13186</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14147</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14946</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">430</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">735</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1012</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1260</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1519</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1667</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1947</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2193</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2398</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2541</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2851</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3102</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">255</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">376</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">536</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">연립</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">연립</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">연립</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">128</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">160</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">208</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">353</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">415</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">533</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">651</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">689</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">738</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">756</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">776</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">845</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">183</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">212</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">274</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">362</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">428</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">457</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">478</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">478</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">478</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">553</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">716</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">768</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">99</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">174</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">222</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">309</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">380</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">380</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">474</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">608</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">887</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1067</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">380</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">601</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">857</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">909</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1127</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1459</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1541</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1628</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1678</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1882</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1964</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3520</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">296</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">490</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">553</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">660</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">825</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">879</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">879</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">863</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1026</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1125</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1211</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">62</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">186</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">235</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">330</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">446</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">587</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">587</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">587</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">608</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">654</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">670</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">서울</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">아파트</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">아파트</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">아파트</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">인허가실적</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2031</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2969</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5024</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7548</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9915</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10644</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13482</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15312</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16749</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20210</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26353</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32848</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5234</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8214</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19275</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20287</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21600</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22436</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24554</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27340</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28527</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29672</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">31491</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36220</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1626</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4919</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7303</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9444</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11222</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11992</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14005</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14972</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17056</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22102</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24867</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30404</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">703</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5480</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9761</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17167</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19391</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22427</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28315</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30524</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40298</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46704</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52110</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">53662</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2394</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6466</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7571</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9628</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10888</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14361</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16401</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18614</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19641</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21153</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22282</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25337</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1366</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7570</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11266</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13515</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14082</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15094</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17243</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20369</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20472</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23920</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30403</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34043</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2184</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4502</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5850</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <LeftColumnVisible>33</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>52</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="메타정보">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="15" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="42" ss:DefaultRowHeight="11.25">
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">&lt; 통계표 메타자료 &gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">○통계표ID</Data></Cell>
+    <Cell><Data ss:Type="String">DT_MLTM_1948</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">○통계표명</Data></Cell>
+    <Cell><Data ss:Type="String">주택유형별 주택건설 인허가실적(월별 누계)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">○수록기간</Data></Cell>
+    <Cell><Data ss:Type="String">null</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">○출처</Data></Cell>
+    <Cell><Data ss:Type="String">KOSIS(「주택건설실적통계」, 국토교통부), 2024.05.02 16:38 </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">○문의처</Data></Cell>
+    <Cell><Data ss:Type="String">044-201-4148 </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">○통계표URL</Data></Cell>
+    <Cell><Data ss:Type="String">https://kosis.kr/statHtml/statHtml.do?orgId=116&amp;tblId=DT_MLTM_1948&amp;conn_path=I3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">* KOSIS 개편 시 통계표 URL은 달라질 수 있음</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">○단위</Data></Cell>
+    <Cell><Data ss:Type="String">호</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">○주석</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">통계표 : 1) -(-)수치는 취소 등의 사유로 정정 과정에서 발생&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">               - 당해년도 해당 월까지의 누계&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">               자료 : 국토교통부 주택토지실 주택정책관 주택정책과&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">          &quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">          2) 2023년(1~12월) 주택건설((인허가, 착공, 준공) 실적 수정 공표(2024.4.30.)&quot;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
