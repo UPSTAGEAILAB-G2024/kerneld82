@@ -1,16 +1,8 @@
-import json
-
 import dash_bootstrap_components as dbc
-from dash import html, ctx, Input, Output, State, clientside_callback, dcc, dash_table
+from dash import html, Input, Output, State, clientside_callback, dcc, dash_table
 import pandas as pd
 import plotly.express as px
-from sklearn import preprocessing
-import plotly.io as pio
-import plotly.express as px
 import plotly.graph_objects as go
-import plotly.figure_factory as ff
-from plotly.subplots import make_subplots
-from plotly.validators.scatter.marker import SymbolValidator
 
 # 정부 정책 주석이 추가된 아파트매매실거래가격지수 그래프
 def getAnnotatedSellPlot():
@@ -86,6 +78,12 @@ def get_sidebar(active_item=None):
     ])
     return nav
 
+def getLayoutComponent():
+    return html.Div([
+        #dash_table.DataTable(data=dfMerged.to_dict('records'), page_size=10),
+        dcc.Graph(figure=getAnnotatedSellPlot()),
+    ])
+
 def layout():
     banner = dbc.Row([
         dbc.Col([
@@ -98,17 +96,11 @@ def layout():
         ]),
     ])
 
-    layout_components = html.Div([
-        #html.Div(children='My First App with Data and a Graph'),
-        #dash_table.DataTable(data=dfMerged.to_dict('records'), page_size=10),
-        dcc.Graph(figure=getAnnotatedSellPlot()),
-    ])
-
     layout = [
         get_sidebar(__name__),
         html.Div([
             dbc.Container(banner, fluid=True),
-            dbc.Container(layout_components, fluid='md')
+            dbc.Container(getLayoutComponent(), fluid='md')
         ], className='content')
     ]
 
