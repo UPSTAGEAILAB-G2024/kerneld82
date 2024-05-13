@@ -67,9 +67,9 @@ def layout():
     banner = dbc.Row([
         dbc.Col([
             html.Div([
-                html.Img(src='https://cdn.cctoday.co.kr/news/photo/202311/2187993_626588_3232.jpg', alt='공급', className="banner-image"),
+                html.Img(src='https://cdn.cctoday.co.kr/news/photo/202311/2187993_626588_3232.jpg', alt='통화 및 부채', className="banner-image"),
                 html.Div([
-                    html.H2("공급"),
+                    html.H2("통화 및 부채"),
                 ], className='overlay-text')
             ], className='banner-container')
         ]),
