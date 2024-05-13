@@ -42,16 +42,9 @@ dash_app = Dash(__name__,
             'integrity': 'sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm',
             'crossorigin': 'anonymous'
         }],
-        external_stylesheets=[{
-            'href': 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css',
-            'integrity': 'sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9',
-            'crossorigin': 'anonymous',
-            'rel': 'stylesheet'
-        },
-        {
-            'href': 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
-            'rel': 'stylesheet'
-        }]
+        external_stylesheets=['https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css',
+                              'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
+                              'https://codepen.io/chriddyp/pen/bWLwgP.css']
     )
 dash.register_page('pages.homepage',
     path='/',
